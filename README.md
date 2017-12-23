@@ -2,7 +2,7 @@
 
 In CodeFTW meetings we are studying and working with Web and Mobile technologies using JS Stacks...  
 
-## Stacks
+## Stack
 
 * Java Script
 * Meteor (based Node)
