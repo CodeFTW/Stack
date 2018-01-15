@@ -31,9 +31,14 @@ In CodeFTW meetings we are studying and working with Web and Mobile technologies
 
 ### Java Script
 * [Java Script](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+* [Livro de Java Script - CangaceiroJS - PAGO/PT-BR](https://www.casadocodigo.com.br/products/livro-cangaceiro-javascript)
+* [Curso de Java Script com TDD - Pago/PT-BR](https://www.udemy.com/js-com-tdd-na-pratica)
+
 
 ### Meteor
 * [Meteor Tutorial with React - TODO List](https://www.meteor.com/tutorials/react/creating-an-app)
+* [Curso de Meteor com React - Pago/EN](https://www.udemy.com/meteor-react)
+
 
 ### React
 * [React Tutorial - Jogo  da Velha](https://reactjs.org/tutorial/tutorial.html)
