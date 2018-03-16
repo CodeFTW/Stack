@@ -44,6 +44,7 @@ In CodeFTW meetings we are studying and working with Web and Mobile technologies
 * [React Tutorial - Jogo  da Velha](https://reactjs.org/tutorial/tutorial.html)
 
 ### GraphQL / Apollo
+* [Video Tutorial - Full-stack GraphQL with Apollo, Meteor & React / 2018 - FREE](https://www.youtube.com/playlist?list=PLLnpHn493BHFTDL9M1PKnxQwBwOZ8J-h4)
 * [GraphQL/Apollo]()
 
 ### MongoDB / NoSQL
