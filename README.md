@@ -33,6 +33,9 @@ In CodeFTW meetings we are studying and working with Web and Mobile technologies
 * [Java Script](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 * [Livro de Java Script - CangaceiroJS - PAGO/PT-BR](https://www.casadocodigo.com.br/products/livro-cangaceiro-javascript)
 * [Curso de Java Script com TDD - Pago/PT-BR](https://www.udemy.com/js-com-tdd-na-pratica)
+* [You Don't Know JS (book series)](https://github.com/getify/You-Dont-Know-JS)
+* [HOC - Recompose Docs](https://github.com/acdlite/recompose)
+* [HOC - Recompose](https://www.youtube.com/watch?v=SQtrgiLy3Fo)
 
 
 ### Meteor
@@ -45,18 +48,24 @@ In CodeFTW meetings we are studying and working with Web and Mobile technologies
 
 ### GraphQL / Apollo
 * [Video Tutorial - Full-stack GraphQL with Apollo, Meteor & React / 2018 - FREE](https://www.youtube.com/playlist?list=PLLnpHn493BHFTDL9M1PKnxQwBwOZ8J-h4)
-* [GraphQL/Apollo]()
+* [How to Graphql](https://www.howtographql.com/)
+* [How to Grapqhl with Apollo](https://www.howtographql.com/react-apollo/0-introduction/)
 
 ### MongoDB / NoSQL
-* [Mongo/NoSQL]()
+* [Mongo/NoSQL](https://www.tutorialspoint.com/mongodb/index.htm)
+* [Nosql AWS Definition](https://aws.amazon.com/pt/nosql/)
 
 ### HTML/CSS
-* [HTML]()
+* [HTML](https://www.w3schools.com/html/)
 ### MaterialUI
-* [MaterialUI]()
+* [MaterialUI - React](https://material-ui-next.com/)
+* [Material Icons](https://material.io/icons/)
 
 ### FlexBox - CSS
-* [FlexBox]()
+* [Yoksel](https://yoksel.github.io/flex-cheatsheet/#display)
+* [Froggy Game](http://flexboxfroggy.com/)
+* [CSS Tricks](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+
 
 
 
