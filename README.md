@@ -36,6 +36,8 @@ In CodeFTW meetings we are studying and working with Web and Mobile technologies
 * [You Don't Know JS (book series)](https://github.com/getify/You-Dont-Know-JS)
 * [HOC - Recompose Docs](https://github.com/acdlite/recompose)
 * [HOC - Recompose](https://www.youtube.com/watch?v=SQtrgiLy3Fo)
+* [You Don't Know JS (book series) - pt-BR](https://github.com/cezaraugusto/You-Dont-Know-JS)
+* [Javascript Ninja - Fernando Daciuk - PAGO](https://www.udemy.com/share/1000jaAksbdFdUQXg=/)
 
 
 ### Meteor
